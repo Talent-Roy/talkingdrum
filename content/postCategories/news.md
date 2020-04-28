@@ -2,7 +2,6 @@
 template: BlogIndex
 title: Projects
 subtitle: Architectural design projects
-featuredImage: >-
-  https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/
+featuredImage: 'https://ucarecdn.com/9411d61d-f647-4216-b204-aac00a43298b/'
 ---
 
