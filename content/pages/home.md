@@ -2,11 +2,8 @@
 template: HomePage
 slug: ''
 title: Studio Blue
-featuredImage: 'https://ucarecdn.com/9411d61d-f647-4216-b204-aac00a43298b/'
-subtitle: 'Defining modern African architecture.'
-meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+featuredImage: 'https://ucarecdn.com/f880bfec-6fff-4c53-b376-c29d6b88c716/'
+subtitle: Defining modern African architecture.
 section1: >-
   # Lorem ipsum dolor sit amet, consectetur
 
@@ -30,6 +27,15 @@ section2: "## Why do we use it?\r\n\nIt is a long established fact that a reader
 video: 'https://ucarecdn.com/d258ec8c-2b55-4e1c-b98e-580f48ae0eba/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
+accordion:
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
 gallery:
   - alt: ' a molestie luctus, velit mi'
     image: 'https://ucarecdn.com/bc01a0c3-1904-4dad-a76c-81c10be339ac/'
@@ -40,15 +46,8 @@ gallery:
   - alt: condimentum posuere ipsum
     image: 'https://ucarecdn.com/e70997e6-5000-4748-ac43-f2a0654632ae/'
     title: condimentum posuere ipsum
-accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+meta:
+  description: This is a meta description.
+  title: The Ultimate Gatsby Starter
 ---
 
-![](https://ucarecdn.com/148595ac-f5d0-4e90-9199-713dd217b276/)
