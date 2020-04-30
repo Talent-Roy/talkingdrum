@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
-title: Updates
-subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+title: Articles
+subtitle: Architectural design blog
+featuredImage: 'https://ucarecdn.com/3411fa68-7271-4202-8a68-d68950f7e4e4/'
 ---
 

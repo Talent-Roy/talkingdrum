@@ -1,9 +1,9 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: Knowledge is power
+title: Latest Articles
+featuredImage: 'https://ucarecdn.com/19d17eca-2bd5-43ce-a7e0-1071505b73c1/'
+subtitle: We define architectural modern architectural design.
 meta:
   description: This is a meta description.
   title: Blog Page
