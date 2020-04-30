@@ -19,8 +19,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-offline',
       options: {
-        runtimeCaching: [
-          {
+        runtimeCaching: [{
             // Use cacheFirst since these don't need to be revalidated (same RegExp
             // and same reason as above)
             urlPattern: /(\.js$|\.css$|static\/)/,
@@ -44,8 +43,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'yellowcake',
-        short_name: 'yellowcake',
+        name: 'studioblue',
+        short_name: 'studioblue',
         start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',
