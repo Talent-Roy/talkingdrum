@@ -34,7 +34,7 @@ export const HomePageTemplate = ({
         <Content source={section1} />
       </div>
     </section>
-    {/* 
+
     <section className="section">
       <div className="container">
         <h2>What we offer</h2>
@@ -66,7 +66,7 @@ export const HomePageTemplate = ({
           <Content source={section1} />
         </Popup>
       </div>
-    </section> */}
+    </section>
   </main>
 )
 
@@ -87,11 +87,21 @@ export const pageQuery = graphql`
   query HomePage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
+      ...Gallery
       html
       frontmatter {
         title
         subtitle
         featuredImage
+        section1
+        section2
+        video
+        videoPoster
+        videoTitle
+        accordion {
+          title
+          description
+        }
       }
     }
   }

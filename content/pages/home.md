@@ -1,14 +1,54 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Studio Blue
+featuredImage: 'https://ucarecdn.com/9411d61d-f647-4216-b204-aac00a43298b/'
+subtitle: 'Defining modern African architecture.'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
----
+section1: >-
+  # Lorem ipsum dolor sit amet, consectetur
 
-<h1>hello</h1>
+  ##
+
+  What is Lorem Ipsum?
+
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  when an unknown printer took a galley of type and scrambled it to make a type
+  specimen book. It has survived not only five centuries, but also the leap into
+  electronic typesetting, remaining essentially unchanged. It was popularised in
+  the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+  and more recently with desktop publishing software like Aldus PageMaker
+  including versions of Lorem Ipsum.
+
+  ##
+
+  ##
+section2: "## Why do we use it?\r\n\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+video: 'https://ucarecdn.com/d258ec8c-2b55-4e1c-b98e-580f48ae0eba/'
+videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
+videoTitle: 'Also background videos, with poster image & title overlay.'
+gallery:
+  - alt: ' a molestie luctus, velit mi'
+    image: 'https://ucarecdn.com/bc01a0c3-1904-4dad-a76c-81c10be339ac/'
+    title: 'a molestie luctus, velit mi'
+  - alt: 'Phasellus turpis elit, eleifen'
+    image: 'https://ucarecdn.com/794d5f34-718b-433c-94e8-bebd20eeaf0c/'
+    title: 'Phasellus turpis elit, eleifen'
+  - alt: condimentum posuere ipsum
+    image: 'https://ucarecdn.com/e70997e6-5000-4748-ac43-f2a0654632ae/'
+    title: condimentum posuere ipsum
+accordion:
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
+---
 
 ![](https://ucarecdn.com/148595ac-f5d0-4e90-9199-713dd217b276/)

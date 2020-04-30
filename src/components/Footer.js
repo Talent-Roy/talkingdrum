@@ -5,7 +5,7 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us <a href="#">@studioblue</a>
+      Follow us <a href="/">@studioblue</a>
     </h2>
     <br />
     <InstagramFeed count="8" />
