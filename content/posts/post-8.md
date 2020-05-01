@@ -13,6 +13,17 @@ excerpt: >-
 meta:
   description: test meta description
   title: test meta title
+
+gallery:
+  - alt: ' a molestie luctus, velit mi'
+    image: 'https://ucarecdn.com/bc01a0c3-1904-4dad-a76c-81c10be339ac/'
+    title: 'a molestie luctus, velit mi'
+  - alt: 'Phasellus turpis elit, eleifen'
+    image: 'https://ucarecdn.com/794d5f34-718b-433c-94e8-bebd20eeaf0c/'
+    title: 'Phasellus turpis elit, eleifen'
+  - alt: condimentum posuere ipsum
+    image: 'https://ucarecdn.com/e70997e6-5000-4748-ac43-f2a0654632ae/'
+    title: condimentum posuere ipsum
 ---
 
 This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.

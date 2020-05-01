@@ -4,11 +4,13 @@ import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
 
 import Content from '../components/Content'
+import Gallery from '../components/Gallery'
 import Layout from '../components/Layout'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
   title,
+  gallery,
   date,
   body,
   nextPostURL,
@@ -58,6 +60,11 @@ export const SinglePostTemplate = ({
               {title}
             </h1>
           )}
+          <section className="section">
+            <div className="container">
+              <Gallery images={gallery} />
+            </div>
+          </section>
 
           <div className="SinglePost--InnerContent">
             <Content source={body} />
@@ -115,6 +122,7 @@ export const pageQuery = graphql`
   ## query name must be unique to this file
   query SinglePost($id: String!) {
     post: markdownRemark(id: { eq: $id }) {
+      ...Gallery
       ...Meta
       html
       id

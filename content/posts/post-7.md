@@ -17,7 +17,19 @@ meta:
   description: test meta description
   noindex: false
   title: test meta title
+
+gallery:
+  - alt: ' a molestie luctus, velit mi'
+    image: 'https://ucarecdn.com/bc01a0c3-1904-4dad-a76c-81c10be339ac/'
+    title: 'a molestie luctus, velit mi'
+  - alt: 'Phasellus turpis elit, eleifen'
+    image: 'https://ucarecdn.com/794d5f34-718b-433c-94e8-bebd20eeaf0c/'
+    title: 'Phasellus turpis elit, eleifen'
+  - alt: condimentum posuere ipsum
+    image: 'https://ucarecdn.com/e70997e6-5000-4748-ac43-f2a0654632ae/'
+    title: condimentum posuere ipsum
 ---
+
 Paragraphs are separated by a blank line.
 
 ![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
@@ -28,9 +40,9 @@ The second paragraph. This is placeholder text that our web designers put here t
 
 ### Unordered lists:
 
-* this one
-* that one
-* the other one
+- this one
+- that one
+- the other one
 
 ### Ordered lists:
 
