@@ -16,7 +16,6 @@ meta:
   description: test meta description
   noindex: false
   title: test meta title
-
 gallery:
   - alt: ' a molestie luctus, velit mi'
     image: 'https://ucarecdn.com/bc01a0c3-1904-4dad-a76c-81c10be339ac/'
