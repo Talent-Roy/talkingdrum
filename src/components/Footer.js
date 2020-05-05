@@ -12,8 +12,8 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://studioblue.netlify.com">Thrive</a>.
+          © Copyright {new Date().getFullYear()} All rights reserved. Designed
+          by <a href="https://talentsmedia.netlify.app">talesmedia</a>.
         </span>
       </div>
     </footer>
