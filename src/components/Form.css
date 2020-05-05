@@ -7,7 +7,7 @@
   margin: 2.5rem 0;
 }
 
-.Form > * + * {
+.Form>*+* {
   margin-top: 2rem;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .Form--Group .Form--Label {
-  width: calc(50% - 1rem);
+  width: calc(100% - 1rem);
 }
 
 .Form--Label {
@@ -33,7 +33,7 @@
   background: var(--white);
 }
 
-.Form--Label > span {
+.Form--Label>span {
   position: absolute;
   left: 2rem;
   top: 1.5rem;
@@ -46,7 +46,7 @@
   font-family: inherit;
   flex-grow: 1;
   box-sizing: border-box;
-  display: block;
+  /* display: block; */
   margin: 0;
   border: 1px solid #bababa;
   padding: 1.5rem 2rem;
@@ -67,11 +67,11 @@
   padding-top: 2.5rem;
 }
 
-.Form--InputText:valid + span,
-.Form--InputText:not(:empty) + span,
-.Form--InputText:invalid:not(:empty) + span,
-.Form--InputText:active + span,
-.Form--InputText:focus + span {
+.Form--InputText:valid+span,
+.Form--InputText:not(:empty)+span,
+.Form--InputText:invalid:not(:empty)+span,
+.Form--InputText:active+span,
+.Form--InputText:focus+span {
   top: 0;
   left: 0.5rem;
   font-size: 1.2rem;
@@ -178,8 +178,8 @@
   display: none;
 }
 
-.Form--Radio .Form--RadioInput + span::before,
-.Form-Checkbox .Form--CheckboxInput + span::before {
+.Form--Radio .Form--RadioInput+span::before,
+.Form-Checkbox .Form--CheckboxInput+span::before {
   content: '';
   position: absolute;
   width: 2rem;
@@ -192,8 +192,8 @@
   border-radius: var(--borderRadius);
 }
 
-.Form--Radio .Form--RadioInput:checked + span::before,
-.Form-Checkbox .Form--CheckboxInput:checked + span::before {
+.Form--Radio .Form--RadioInput:checked+span::before,
+.Form-Checkbox .Form--CheckboxInput:checked+span::before {
   content: '';
   position: absolute;
   width: 2rem;
@@ -205,8 +205,8 @@
   background: var(--primary);
 }
 
-.Form--RadioInput + span::after,
-.Form--CheckboxInput + span::after {
+.Form--RadioInput+span::after,
+.Form--CheckboxInput+span::after {
   transform: scale(0.5);
   transition: 0.3s ease all;
   content: '\2713';
@@ -219,8 +219,8 @@
   opacity: 0;
 }
 
-.Form--RadioInput:checked + span::after,
-.Form--CheckboxInput:checked + span::after {
+.Form--RadioInput:checked+span::after,
+.Form--CheckboxInput:checked+span::after {
   opacity: 1;
   transform: scale(1);
 }

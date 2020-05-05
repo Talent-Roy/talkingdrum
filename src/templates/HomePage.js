@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
@@ -62,9 +62,27 @@ export const HomePageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <Popup>
+        <p style={{ textAlign: 'center' }}>
+          <Link to="/contact">
+            <button
+              style={{
+                background: '#000000',
+                color: '#ffffff',
+                padding: '2rem',
+                borderRadius: '15px',
+                paddingBottom: '2rem',
+                fontWeight: '2rem',
+                cursor: 'pointer'
+              }}
+            >
+              Contact Us
+            </button>
+          </Link>
+        </p>
+
+        {/* <Popup>
           <Content source={section1} />
-        </Popup>
+        </Popup> */}
       </div>
     </section>
   </main>
