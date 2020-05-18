@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Studio Blue
+title: Studioblue.ng
 featuredImage: 'https://ucarecdn.com/f880bfec-6fff-4c53-b376-c29d6b88c716/'
 subtitle: Defining modern African architecture.
 section1: >-
@@ -25,7 +25,8 @@ section1: >-
   ##
 section2: "## Why do we use it?\r\n\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
 video: 'https://ucarecdn.com/d258ec8c-2b55-4e1c-b98e-580f48ae0eba/'
-videoPoster: 'https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940'
+videoPoster: >-
+  https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 videoTitle: 'Lorem ipsum dolor sit amet something something, i seem to have forgotten'
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
@@ -50,3 +51,4 @@ meta:
   description: This is a meta description.
   title: Studiobleu home
 ---
+
