@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: studioblue.ng
+title: studiobleu.ng
 featuredImage: 'https://ucarecdn.com/f880bfec-6fff-4c53-b376-c29d6b88c716/'
 subtitle: Defining modern African Architecture.
 section1: >-
