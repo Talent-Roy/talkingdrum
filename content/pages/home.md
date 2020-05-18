@@ -8,12 +8,12 @@ section1: >-
   ## Design Strategies
 
 
-
-
   studiobleu.ng is a sustainable design studio focused on improving the built
-  environment with ecofriendly approach. Our design are centred around fusing
-  recycable building materials to create innovative ideas.
+  environment with ecofriendly approach. Our style of design is centred around
+  using recycable building materials and energy source to create innovative
+  structures and ideas.
 
+   
 
   ## 
 
