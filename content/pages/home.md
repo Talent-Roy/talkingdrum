@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: studiobleu.ng
-featuredImage: 'https://ucarecdn.com/f880bfec-6fff-4c53-b376-c29d6b88c716/'
+featuredImage: 'https://ucarecdn.com/71ddd982-cceb-4d23-9a54-fab6dfa6df93/'
 subtitle: Defining modern African Architecture.
 section1: >-
   ## Design Strategies
