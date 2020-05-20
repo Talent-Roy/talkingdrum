@@ -36,13 +36,13 @@ accordion:
 gallery:
   - alt: Architectural Design
     image: 'https://ucarecdn.com/bc01a0c3-1904-4dad-a76c-81c10be339ac/'
-    title: 'a molestie luctus, velit mi'
+    title: Architectural Design
   - alt: Community & Urban Planning
     image: 'https://ucarecdn.com/794d5f34-718b-433c-94e8-bebd20eeaf0c/'
-    title: 'Phasellus turpis elit, eleifen'
+    title: Community & Urban Planning
   - alt: Green Energy & Building Materials
     image: 'https://ucarecdn.com/e70997e6-5000-4748-ac43-f2a0654632ae/'
-    title: condimentum posuere ipsum
+    title: Green Energy & Building Materials
 meta:
   description: This is a meta description.
   title: Studiobleu home
